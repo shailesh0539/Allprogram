@@ -4,6 +4,7 @@ public class Gittest {
 
 	public static void main(String[] args) {
 		System.out.println("Audi");
+		System.out.println("Thar");
 	}
 
 }
